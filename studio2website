@@ -1,0 +1,47 @@
+<html>
+	<head>
+		<title>Studio II Project</title>
+	</head>
+	<style>
+	ul 
+	{
+		display: table;
+		margin: 0 auto;
+	}	
+	</style>
+
+	<body>
+		<h1 style="text-align:center;">Radon Simulation: Starting Point</h1>
+		<p align="center">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/1Mw0nJ65MdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</p>
+		<br>
+		<br>
+		<h3 style="text-align:center;">Code Repository</h3>
+		<!-- link to GitHub -->
+		<br>
+		<br>
+		<h3 style="text-align:center;">User Stories</h3>
+		<ul style="list-style-type:disc;">
+			<li>The user will learn and be evaluated on objectives to properly install a raydon mitigation system</li>
+			<li>The user will choose diagnostic hole location(s)</li>
+			<li>The user will choose possible suction points and fan locations</li>
+			<li>The user will slelect a suction method/tool - vacuum cleaner or fan(s)</li>
+			<li>The user will execute a qualitative assessment of pressure field extension</li>
+			<li>The user will adjust the airflow/vacuum to the desired minimum pressure field extension</li>
+			<li>The user will identify and select the final pipe run configuration and pipe diameter</li>
+			<li>The user will evaluate test conditions on strength and extent of pressure field extension</li>
+			<li>The user will determine the total piping system resistance</li>
+			<li>The user will determine the total subslab resistance</li>
+		</ul>
+		<br>
+		<br>
+		<h2 style="text-align:center;">Sprint #1</h2>
+		<p align = "center">
+		<!-- sprint 1 video -->
+		</p>
+		<br>
+		<br>
+		<!-- next sprint when ready goes here -->
+	</body>
+</html>
